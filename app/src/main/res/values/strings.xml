@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Temperature Converter</string>
+  <string name="action_settings">Settings</string>
+  <string name="fahrenheit">Fahrenheit</string>
+  <string name="celsius">Celsius</string>
+  <string name="kelvin">Kelvin</string>
+  <string name="cleared">Cleared</string>
+  <string name="ok">OK</string>
+  <string name="celcius_to"><![CDATA[Celcius -> *]]></string>
+  <string name="kelvin_to"><![CDATA[Kelvin -> *]]></string>
+  <string name="fahrenheit_to"><![CDATA[Fahrenheit -> *]]></string>
+</resources>
